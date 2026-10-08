@@ -21,4 +21,5 @@ country) and is public domain. Code is MIT licensed (see `LICENSE`).
 
 | Date | Folder | Subject |
 |---|---|---|
+| 2026-10-07 | [`2026-10-07-laptops-vietnam-china`](2026-10-07-laptops-vietnam-china/) | US imports of laptops (HS 847130) from Vietnam vs China: value and effective tariff rate ([post 1](https://x.com/tradewartracker/status/2107861273492799888), [post 2](https://x.com/tradewartracker/status/2107861276214878562)) |
 | 2026-10-08 | [`2026-10-08-ssd-imports`](2026-10-08-ssd-imports/) | US imports of solid-state storage (HS 852351): value, volume, unit value by source ([post 1](https://x.com/tradewartracker/status/2108203779187478987), [post 2](https://x.com/tradewartracker/status/2108203781565317196)) |
